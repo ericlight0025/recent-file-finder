@@ -1,0 +1,15 @@
+# Local user configuration (contains machine-specific absolute paths)
+finder_config.json
+finder_config.tmp
+finder_index.sqlite3
+
+# Python-generated files and private backups
+__pycache__/
+*.py[cod]
+*.bak
+
+# Local editor and environment files
+.vscode/
+.idea/
+.env
+.env.*
